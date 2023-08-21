@@ -14,7 +14,7 @@ Also you can manage you profile.
 
 1] Wellcome Screen
 
-![screenshot-2023-08-21_08 24 14 531](https://github.com/iharshlalakiya/healthcare/assets/118156560/130fc715-43b0-44b1-ae17-364e7201a1d3)
+![screenshot-2023-08-21_08 24 14 531](https://github.com/iharshlalakiya/healthcare/assets/118156560/b8997388-4fa3-4256-a781-d0f536246716)
 
 #
 
