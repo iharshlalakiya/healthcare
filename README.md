@@ -9,75 +9,64 @@ Also you can manage you profile.
 
 
 
+#
 
 ### Screen
 
 1] Wellcome Screen
 
-![screenshot-2023-08-21_08 24 14 531](https://github.com/iharshlalakiya/healthcare/assets/118156560/b8997388-4fa3-4256-a781-d0f536246716)
+![screenshot-2023-08-21_08 24 14 531](https://github.com/iharshlalakiya/healthcare/assets/118156560/00e78bb0-cea8-486c-87df-141b9ef890fc)
 
 #
 
 2] Login Screen
 
-![screenshot-2023-08-21_08 25 08 789](https://github.com/iharshlalakiya/healthcare/assets/118156560/25f0c9b8-a0fe-41fb-8007-c59e34798696)
-
-#
-
-2] Login Screen
-
-![screenshot-2023-08-21_08 25 08 789](https://github.com/iharshlalakiya/healthcare/assets/118156560/25f0c9b8-a0fe-41fb-8007-c59e34798696)
-
-#
-
-2] Login Screen
-
-![screenshot-2023-08-21_08 25 08 789](https://github.com/iharshlalakiya/healthcare/assets/118156560/25f0c9b8-a0fe-41fb-8007-c59e34798696)
+![screenshot-2023-08-21_08 25 08 789](https://github.com/iharshlalakiya/healthcare/assets/118156560/cb7702ad-19e3-405c-b6b3-b393ef4b9d97)
 
 #
 
 3] Create Accont Screen
 
-![screenshot-2023-08-21_08 25 58 003](https://github.com/iharshlalakiya/healthcare/assets/118156560/364d6239-b528-45af-8205-8877180d241e)
+![screenshot-2023-08-21_08 25 58 003](https://github.com/iharshlalakiya/healthcare/assets/118156560/6f32f247-88c5-4e37-9e4b-71b58597323e)
 
 #
 
 4] Forgot Password Screen
 
-![screenshot-2023-08-21_08 25 27 359](https://github.com/iharshlalakiya/healthcare/assets/118156560/8cbf07a0-bf70-48f7-8680-59b11b272d81)
+![screenshot-2023-08-21_08 25 27 359](https://github.com/iharshlalakiya/healthcare/assets/118156560/4d1159bf-d595-4367-9952-5f04436cfc12)
 
 #
 
 5] Home Screen
 
-![screenshot-2023-08-21_08 26 25 896](https://github.com/iharshlalakiya/healthcare/assets/118156560/97f8c563-8d02-41f2-932e-f7debe742e9d)
+![screenshot-2023-08-21_08 26 25 896](https://github.com/iharshlalakiya/healthcare/assets/118156560/bfd893b3-9ccc-45a7-95be-fa5e6cda3dd7)
 
 #
 
 6] Book Appointment Screen
 
-![screenshot-2023-08-21_08 26 33 737](https://github.com/iharshlalakiya/healthcare/assets/118156560/bf2e7d32-7f49-4f87-b4e9-d7510a6fda5f)
+![screenshot-2023-08-21_08 26 33 737](https://github.com/iharshlalakiya/healthcare/assets/118156560/734eca56-9fc8-4397-a2ae-f5d6393960ff)
 
 #
 
 7] Message Screen
 
-![screenshot-2023-08-21_08 26 44 34](https://github.com/iharshlalakiya/healthcare/assets/118156560/b49c9623-c1b7-4a2c-a5f4-1581b539e426)
+![screenshot-2023-08-21_08 26 44 34](https://github.com/iharshlalakiya/healthcare/assets/118156560/3d8b6b3b-8946-44da-8786-5cbd1b5d5dcd)
 
 #
 
 8] Chat Screen
 
-![screenshot-2023-08-21_08 27 01 207](https://github.com/iharshlalakiya/healthcare/assets/118156560/88af13bf-5a43-48eb-8f6c-dcce679dfd60)
+![screenshot-2023-08-21_08 27 01 207](https://github.com/iharshlalakiya/healthcare/assets/118156560/0cb2e735-f096-4b1b-8415-b67d1344a3c8)
 
 #
 
 9] Schedule Screen
 
-![screenshot-2023-08-21_08 27 15 479](https://github.com/iharshlalakiya/healthcare/assets/118156560/f8de386b-e57d-4bb7-80b5-69ffd5e593cf)
+![screenshot-2023-08-21_08 27 15 479](https://github.com/iharshlalakiya/healthcare/assets/118156560/a68b041c-8df8-41d1-b274-d6f063ba7f81)
 
 #
 
 10] Setting Screen
 
-![screenshot-2023-08-21_08 27 23 511](https://github.com/iharshlalakiya/healthcare/assets/118156560/ba3d00b2-5e0a-4ed3-9da3-c9c8ef9f511a)
+![screenshot-2023-08-21_08 27 23 511](https://github.com/iharshlalakiya/healthcare/assets/118156560/b250211c-af24-48bb-a401-0b2a8f0f9641)
